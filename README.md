@@ -23,10 +23,10 @@ You can click the Preview link to take a look at your changes.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | Javascript | Python | R (Statistics)
-- 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | ReactJS
+- 💻 &nbsp; Java | Javascript | Python 
+- 🌐 &nbsp; HTML | CSS | TailwindCss | Node.js | ReactJS
 - 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Postman API | Vs Code
+- 🔧 &nbsp; Git | Postman | API | Vs Code| Github
 
 ### 📫🤝🏻 Connect with Me
 
